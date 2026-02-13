@@ -7,7 +7,7 @@ This project is designed with a clean layered architecture and focuses on real-w
 
 ---
 
-### Swtich from Main -> master branch to access the code
+### Swtich from main -> master branch to access the code
 
 ---
 ## Features
