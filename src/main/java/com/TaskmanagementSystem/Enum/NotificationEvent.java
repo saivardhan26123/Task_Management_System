@@ -1,0 +1,6 @@
+package com.TaskmanagementSystem.Enum;
+
+public enum NotificationEvent {
+
+	ISSUE_CREATED,ISSUE_ASSIGNED,ISSUE_STATUS_CHANGED,ISSUE_COMMITED,ISSUE_COMMENTED,SPRINT_START,SPRINT_CLOSE
+}
